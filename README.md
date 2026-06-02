@@ -36,15 +36,6 @@ Di Space Invaders versi ini, tugas kamu adalah:
 ### Project Architecture
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/4d11fa24-5012-4dd9-88e0-6c6241bf9f33" />
 
-
-### Directory Structure
-Space-Invaders-Vision
-│
-├── LICENSE
-├── README
-├── requirements.txt
-└── space_invaders.py
-
 ### Quick Start
 Pastikan webcam kalian sudah terpasang dan berfungsi dengan baik. Lalu silahkan jalankan file space_invaders.py
 
