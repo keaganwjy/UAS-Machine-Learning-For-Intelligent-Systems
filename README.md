@@ -40,10 +40,10 @@ Di Space Invaders versi ini, tugas kamu adalah:
 ### Directory Structure
 Space-Invaders-Vision
 │
-├── space_invaders.py
+├── LICENSE
+├── README
 ├── requirements.txt
-├── README.md
-└── LICENSE
+└── space_invaders.py
 
 ### Quick Start
 Pastikan webcam kalian sudah terpasang dan berfungsi dengan baik. Lalu silahkan jalankan file space_invaders.py
