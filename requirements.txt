@@ -1,4 +1,4 @@
-PENGGUNAAN COMPUTER VISION PADA GAME SPACE INVADERS
+Vision-Controlled Space Invaders: Real-Time Hand Tracking with MediaPipe & Python
 
 pygame>=2.6.1
 opencv-python>=4.13.0
