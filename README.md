@@ -1,4 +1,4 @@
-# PENGGUNAAN COMPUTER VISION UNTUK GAME SPACE INVADERS
+# Vision-Controlled Space Invaders: Real-Time Hand Tracking with MediaPipe & Python
 
 Anggota Kelompok:
 - Keagan Wijaya (36240041)
