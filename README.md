@@ -33,6 +33,9 @@ Di Space Invaders versi ini, tugas kamu adalah:
 - Tembaki bos abadi buat *farming* skor ekstra (tapi ingat, risiko ditanggung sendiri kalau bosnya ngamuk!).
 - Kumpulin skor sebanyak-banyaknya sambil senam tangan.
 
+### Project Architecture
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/4d11fa24-5012-4dd9-88e0-6c6241bf9f33" />
+
 
 ### Directory Structure
 Space-Invaders-Vision
