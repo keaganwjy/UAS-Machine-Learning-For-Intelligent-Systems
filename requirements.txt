@@ -1,5 +1,3 @@
-Vision-Controlled Space Invaders: Real-Time Hand Tracking with MediaPipe & Python
-
 pygame>=2.6.1
 opencv-python>=4.13.0
 mediapipe>=0.10.9
